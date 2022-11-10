@@ -13,6 +13,8 @@ You can run the website locally using Hugo (Extended version), or you can run it
 
 ## Prerequisites
 
+placeholder
+
 To use this repository, you need the following installed locally:
 
 - [npm](https://www.npmjs.com/)
